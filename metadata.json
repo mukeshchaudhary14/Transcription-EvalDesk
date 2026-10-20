@@ -1,0 +1,6 @@
+{
+  "name": "EvalDesk & Code Vault",
+  "description": "Dual workstation for Hindi audio transcription evaluation and C# concurrency and architectural safety auditing with hybrid rule-based checks and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
